@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location 101</string>
+    <string name="location_101">Location 101</string>
+    <string name="longitude">Longitude: </string>
+    <string name="accuracy">Accuracy: </string>
+    <string name="altitude">Altitude: </string>
+    <string name="address">Address: </string>
+    <string name="latitude">Latitude: </string>
+    <string name="mountain_background">mountain_background</string>
+</resources>
